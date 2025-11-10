@@ -1,6 +1,6 @@
 ## Hi there!!
 # About Me:
-!! I’m currently working on Planlli.com<br>!! I’m currently learning funcitonal programming languages
+I’m currently working on Planlli.com<br> I’m currently learning funcitonal programming languages
 
 
 ## Socials:
